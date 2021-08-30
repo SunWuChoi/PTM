@@ -1,6 +1,6 @@
-% 제작자 201421190 최선우
-% 사용자 편의를 위한 인터페이스 구현 부분
-% MATLAB 에서 기본 제공하는 guide 기능으로 구현함
+% Author: Sunwu Choi
+% 2016 December
+
 function varargout = PTM(varargin)
 % PTM MATLAB code for PTM.fig
 %      PTM, by itself, creates a new PTM or raises the existing
