@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SunWuChoi/repo_name.git
+   git clone https://github.com/SunWuChoi/PTM.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/SunWuChoi/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SunWuChoi/PTM/issues) for a list of proposed features (and known issues).
 
 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/SunWuChoi/repo_name](https://github.com/SunWuChoi/repo_name)
+Project Link: [https://github.com/SunWuChoi/PTM](https://github.com/SunWuChoi/PTM)
 
 
 
@@ -185,14 +185,14 @@ Project Link: [https://github.com/SunWuChoi/repo_name](https://github.com/SunWuC
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SunWuChoi/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/SunWuChoi/repo_name/graphs/contributors
+[contributors-url]: https://github.com/SunWuChoi/PTM/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SunWuChoi/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/SunWuChoi/repo_name/network/members
+[forks-url]: https://github.com/SunWuChoi/PTM/network/members
 [stars-shield]: https://img.shields.io/github/stars/SunWuChoi/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/SunWuChoi/repo_name/stargazers
+[stars-url]: https://github.com/SunWuChoi/PTM/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SunWuChoi/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/SunWuChoi/repo_name/issues
+[issues-url]: https://github.com/SunWuChoi/PTM/issues
 [license-shield]: https://img.shields.io/github/license/SunWuChoi/repo.svg?style=for-the-badge
-[license-url]: https://github.com/SunWuChoi/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/SunWuChoi/PTM/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sunwu-choi-1753b7117
