@@ -167,8 +167,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email: sund0416@gmail.com
 
-Project Link: [https://github.com/SunWuChoi/PTM](https://github.com/SunWuChoi/PTM)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
