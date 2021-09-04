@@ -195,4 +195,4 @@ Project Link: [https://github.com/SunWuChoi/repo_name](https://github.com/SunWuC
 [license-shield]: https://img.shields.io/github/license/SunWuChoi/repo.svg?style=for-the-badge
 [license-url]: https://github.com/SunWuChoi/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/SunWuChoi
+[linkedin-url]: https://linkedin.com/in/sunwu-choi-1753b7117
