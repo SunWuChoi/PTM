@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sunwu Choi - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Email: sund0416@gmail.com
 
 Project Link: [https://github.com/SunWuChoi/PTM](https://github.com/SunWuChoi/PTM)
 
