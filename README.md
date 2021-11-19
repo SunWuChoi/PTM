@@ -1,6 +1,4 @@
-# Project Title
-
-Projectile Trajectory Maker
+# Projectile Trajectory Maker
 
 ## Description
 
