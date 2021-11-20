@@ -25,7 +25,7 @@ This program generates a two-dimension, or three-dimension trajectory of a proje
 
 ## Authors
 
-SunWu Choi
+* SunWu Choi
 
 ## Version History
 
