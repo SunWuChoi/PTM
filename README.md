@@ -18,6 +18,7 @@ This program generates a two-dimension, or three-dimension trajectory of a proje
 
 * The program is not available standalone as exe
 * Open PTM.m in MATLAB and run in MATLAB
+* ![alt text](img/Screen Shot 2021-11-20 at 3.37.06 PM.png)
 
 ## Help
 
